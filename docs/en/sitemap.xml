@@ -13,16 +13,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/welcome/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/welcome/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/welcome/"
     />
@@ -38,16 +28,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/installation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/installation/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/installation/"
     />
@@ -59,17 +39,7 @@
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/per-iniziare/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/getting-started/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/getting-started/"
+      href="https://localhost:1313/it/docs/getting-started/"
     />
     <xhtml:link
       rel="alternate"
@@ -84,22 +54,27 @@
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/docs/configurazioni/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/configuration/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/configuration/"
+      href="https://localhost:1313/it/docs/configuration/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/configuration/"
+    />
+  </url>
+  <url>
+    <loc>https://localhost:1313/docs/series/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://localhost:1313/it/docs/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://localhost:1313/docs/series/"
     />
   </url>
   <url>
@@ -110,16 +85,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/docs/homepage-layout/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/homepage-layout/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/homepage-layout/"
     />
     <xhtml:link
       rel="alternate"
@@ -138,16 +103,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/shortcodes/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/shortcodes/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/shortcodes/"
     />
@@ -160,16 +115,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/docs/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -188,16 +133,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/multi-author/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/multi-author/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/multi-author/"
     />
@@ -210,16 +145,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/docs/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/partials/"
     />
     <xhtml:link
       rel="alternate"
@@ -238,16 +163,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/thumbnails/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/thumbnails/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/thumbnails/"
     />
@@ -263,43 +178,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/content-examples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/content-examples/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/content-examples/"
-    />
-  </url>
-  <url>
-    <loc>https://localhost:1313/docs/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/docs/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/docs/series/"
     />
   </url>
   <url>
@@ -310,16 +190,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/docs/advanced-customisation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/advanced-customisation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/advanced-customisation/"
     />
     <xhtml:link
       rel="alternate"
@@ -338,16 +208,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/hosting-deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/hosting-deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/hosting-deployment/"
     />
@@ -360,16 +220,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/docs/firebase-views/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/firebase-views/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/firebase-views/"
     />
     <xhtml:link
       rel="alternate"
@@ -389,16 +239,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/authors/"
     />
@@ -412,16 +252,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/blowfish/"
     />
     <xhtml:link
       rel="alternate"
@@ -441,16 +271,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/categories/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/blowfish/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/categories/blowfish/"
     />
@@ -464,16 +284,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
@@ -493,16 +303,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/hugo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/hugo/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/hugo/"
     />
@@ -516,16 +316,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/authors/nunocoracao/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/authors/nunocoracao/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/nunocoracao/"
     />
     <xhtml:link
       rel="alternate"
@@ -545,11 +335,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/categories/open-source/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/categories/open-source/"
     />
@@ -563,16 +348,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/guides/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/guides/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/guides/"
     />
     <xhtml:link
       rel="alternate"
@@ -592,16 +367,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/"
     />
@@ -615,11 +380,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/tutorial/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/tutorial/"
     />
     <xhtml:link
       rel="alternate"
@@ -639,16 +399,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/"
     />
@@ -662,16 +412,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/examples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/examples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -691,11 +431,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/authors/"
     />
@@ -709,16 +444,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/authors/secondauthor/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/authors/secondauthor/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/secondauthor/"
     />
     <xhtml:link
       rel="alternate"
@@ -738,16 +463,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/multiple-authors/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/multiple-authors/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/samples/multiple-authors/"
     />
@@ -761,11 +476,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/sample/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/sample/"
     />
     <xhtml:link
       rel="alternate"
@@ -785,16 +495,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/samples/"
     />
@@ -808,11 +508,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/thumbnail/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/thumbnail/"
     />
     <xhtml:link
       rel="alternate"
@@ -832,16 +527,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/thumbnail_sample/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/thumbnail_sample/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/samples/thumbnail_sample/"
     />
@@ -855,11 +540,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/icons/"
     />
     <xhtml:link
       rel="alternate"
@@ -879,16 +559,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/icons/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/samples/icons/"
     />
@@ -905,14 +575,65 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/shortcodes/"
+      hreflang="en"
+      href="https://localhost:1313/tags/shortcodes/"
+    />
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/users/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://localhost:1313/it/tags/users/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/shortcodes/"
+      href="https://localhost:1313/tags/users/"
     />
+  </url>
+  <url>
+    <loc>https://localhost:1313/users/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://localhost:1313/it/users/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://localhost:1313/users/"
+    />
+  </url>
+  <url>
+    <loc>https://localhost:1313/users/users/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/%E5%8F%8B%E9%93%BE/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/users/users/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/%E7%A4%BA%E4%BE%8B/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/tags/css/</loc>
@@ -923,16 +644,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/css/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/css/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/css/"
     />
     <xhtml:link
       rel="alternate"
@@ -952,16 +663,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/html/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/html/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/html/"
     />
@@ -975,16 +676,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/markdown/"
     />
     <xhtml:link
       rel="alternate"
@@ -1004,16 +695,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/markdown/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/samples/markdown/"
     />
@@ -1027,16 +708,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/gist/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/gist/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/gist/"
     />
     <xhtml:link
       rel="alternate"
@@ -1056,11 +727,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/privacy/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/privacy/"
     />
@@ -1074,16 +740,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/samples/rich-content/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/rich-content/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/rich-content/"
     />
     <xhtml:link
       rel="alternate"
@@ -1103,16 +759,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/twitter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/twitter/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/twitter/"
     />
@@ -1126,16 +772,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/vimeo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/vimeo/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/vimeo/"
     />
     <xhtml:link
       rel="alternate"
@@ -1155,16 +791,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/youtube/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/youtube/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/youtube/"
     />
@@ -1178,11 +804,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/latin/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/latin/"
     />
     <xhtml:link
       rel="alternate"
@@ -1202,11 +823,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/text/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/text/"
     />
@@ -1220,16 +836,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/katex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/katex/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/katex/"
     />
     <xhtml:link
       rel="alternate"
@@ -1249,16 +855,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/mathematical-notation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/mathematical-notation/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/samples/mathematical-notation/"
     />
@@ -1272,11 +868,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/maths/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/maths/"
     />
     <xhtml:link
       rel="alternate"
@@ -1296,11 +887,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/chart/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/chart/"
     />
@@ -1314,16 +900,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/samples/charts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/charts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/charts/"
     />
     <xhtml:link
       rel="alternate"
@@ -1343,11 +919,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/diagram/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/diagram/"
     />
@@ -1361,16 +932,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/samples/diagrams-flowcharts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/diagrams-flowcharts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/diagrams-flowcharts/"
     />
     <xhtml:link
       rel="alternate"
@@ -1390,11 +951,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/graph/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/graph/"
     />
@@ -1408,16 +964,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/mermaid/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/mermaid/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/mermaid/"
     />
     <xhtml:link
       rel="alternate"
@@ -1437,16 +983,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/emoji/"
     />
@@ -1460,16 +996,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/samples/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/samples/emoji/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
@@ -1489,16 +1015,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/guides/template/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/guides/template/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/guides/template/"
     />
@@ -1515,14 +1031,29 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/template/"
+      hreflang="en"
+      href="https://localhost:1313/tags/template/"
+    />
+  </url>
+  <url>
+    <loc>https://localhost:1313/trama/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="https://localhost:1313/it/trama/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/template/"
+      href="https://localhost:1313/trama/"
     />
+  </url>
+  <url>
+    <loc>https://localhost:1313/authors/secondauthor/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/tags/academia/</loc>
@@ -1540,16 +1071,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/advanced/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/advanced/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/advanced/"
     />
@@ -1562,11 +1083,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/analytics/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/analytics/"
     />
     <xhtml:link
       rel="alternate"
@@ -1600,6 +1116,11 @@
     />
   </url>
   <url>
+    <loc>https://localhost:1313/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://localhost:1313/tags/book/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -1630,11 +1151,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/comments/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/comments/"
     />
@@ -1655,11 +1171,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/config/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/config/"
     />
@@ -1672,11 +1183,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/content/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/content/"
     />
     <xhtml:link
       rel="alternate"
@@ -1710,11 +1216,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/deployment/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/deployment/"
     />
@@ -1732,16 +1233,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/docs/"
     />
     <xhtml:link
       rel="alternate"
@@ -1765,11 +1256,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/series/documentation/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/series/documentation/"
     />
@@ -1785,22 +1271,17 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/docs/"
     />
   </url>
   <url>
     <loc>https://localhost:1313/tags/doll-photography/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/authors/secondauthor/_index.zh-cn/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1812,11 +1293,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/example/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/example/"
     />
     <xhtml:link
       rel="alternate"
@@ -1835,11 +1311,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/favicons/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/favicons/"
     />
@@ -1855,16 +1326,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/firebase/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/firebase/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/firebase/"
     />
@@ -1877,16 +1338,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/front-matter/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/front-matter/"
     />
     <xhtml:link
       rel="alternate"
@@ -1920,16 +1371,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/github/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/github/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/github/"
     />
@@ -1942,11 +1383,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/homepage/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/homepage/"
     />
     <xhtml:link
       rel="alternate"
@@ -1965,11 +1401,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/hosting/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/hosting/"
     />
@@ -1985,28 +1416,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/icon/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/icon/"
-    />
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/installation/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/installation/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/installation/"
     />
   </url>
   <url>
@@ -2017,11 +1428,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/layouts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/layouts/"
     />
     <xhtml:link
       rel="alternate"
@@ -2040,16 +1446,6 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/lead/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/lead/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/lead/"
     />
@@ -2062,11 +1458,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/likes/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/likes/"
     />
     <xhtml:link
       rel="alternate"
@@ -2090,34 +1481,19 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/netlify/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/netlify/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/netlify/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/tags/new/</loc>
+    <loc>https://localhost:1313/authors/nunocoracao/_index.ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/new/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/new/"
-    />
+  </url>
+  <url>
+    <loc>https://localhost:1313/authors/nunocoracao/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/tags/organization-site/</loc>
@@ -2132,16 +1508,6 @@
       rel="alternate"
       hreflang="it"
       href="https://localhost:1313/it/tags/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/partials/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/partials/"
     />
     <xhtml:link
       rel="alternate"
@@ -2180,33 +1546,8 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/render/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/render/"
-    />
-  </url>
-  <url>
-    <loc>https://localhost:1313/tags/series/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/tags/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/series/"
     />
   </url>
   <url>
@@ -2220,19 +1561,14 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/series/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/series/"
     />
+  </url>
+  <url>
+    <loc>https://localhost:1313/examples/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://localhost:1313/tags/software-developer/</loc>
@@ -2255,51 +1591,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://localhost:1313/tags/users/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/tags/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/tags/users/"
-    />
-  </url>
-  <url>
-    <loc>https://localhost:1313/users/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://localhost:1313/it/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/users/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://localhost:1313/users/"
-    />
-  </url>
-  <url>
     <loc>https://localhost:1313/tags/videogame-developer/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -2315,13 +1606,78 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="https://localhost:1313/ja/tags/views/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="en"
       href="https://localhost:1313/tags/views/"
     />
+  </url>
+  <url>
+    <loc>https://localhost:1313/samples/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/examples/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/guides/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/authors/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/guides/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/docs/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/samples/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/authors/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/docs/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/advanced/_index.ja/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://localhost:1313/tags/advanced/_index.zh-cn/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

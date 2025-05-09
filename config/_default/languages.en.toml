@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "U-GO"
 
 [params]
   displayName = "English"
@@ -9,15 +9,15 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "A powerful, lightweight theme for Hugo."
+  description = "SAVE OUR DEGREES"
 
 [params.author]
-  name = "Blowfish"
+  name = "U-GO"
   email = "nuno@n9o.xyz"
   image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
-  bio = "A powerful, lightweight theme for Hugo."
+  headline = "SAVE OUR DEGREES"
+  bio = "SAVE OUR DEGREES"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { instagram = "https://www.instagram.com/ugo_abarc/" },
+    { download = "https://www.instagram.com/ugo_abarc/" },
   ]

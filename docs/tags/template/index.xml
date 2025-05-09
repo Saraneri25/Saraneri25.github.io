@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Template on Blowfish</title>
+    <title>Template on U-GO</title>
     <link>https://localhost:1313/tags/template/</link>
-    <description>Recent content in Template on Blowfish</description>
+    <description>Recent content in Template on U-GO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2024 Blowfish</copyright>
+    <managingEditor>nuno@n9o.xyz (U-GO)</managingEditor>
+    <webMaster>nuno@n9o.xyz (U-GO)</webMaster>
+    <copyright>© 2025 U-GO</copyright>
     <lastBuildDate>Tue, 22 Dec 1987 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/template/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Recipe Template</title>
       <link>https://localhost:1313/guides/template/</link>
       <pubDate>Tue, 22 Dec 1987 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (U-GO)</author>
       <guid>https://localhost:1313/guides/template/</guid>
       <description>&lt;p&gt;Thank you for wanting to contribute to Blowfish&amp;rsquo;s community.&lt;/p&gt;
 

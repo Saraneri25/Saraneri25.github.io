@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academia on Blowfish</title>
+    <title>Academia on U-GO</title>
     <link>https://localhost:1313/tags/academia/</link>
-    <description>Recent content in Academia on Blowfish</description>
+    <description>Recent content in Academia on U-GO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2024 Blowfish</copyright>
+    <managingEditor>nuno@n9o.xyz (U-GO)</managingEditor>
+    <webMaster>nuno@n9o.xyz (U-GO)</webMaster>
+    <copyright>© 2025 U-GO</copyright>
     <atom:link href="https://localhost:1313/tags/academia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>michaeldorner.de</title>
       <link>https://localhost:1313/users/d965f981aa39336ef7be5efac83c96b2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (U-GO)</author>
       <guid>https://localhost:1313/users/d965f981aa39336ef7be5efac83c96b2/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/d965f981aa39336ef7be5efac83c96b2/feature.jpg" />
@@ -25,7 +25,7 @@
       <title>micheledinelli.github.io</title>
       <link>https://localhost:1313/users/27cc5a091bef86a9b5dcfa2c035308ed/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (U-GO)</author>
       <guid>https://localhost:1313/users/27cc5a091bef86a9b5dcfa2c035308ed/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/27cc5a091bef86a9b5dcfa2c035308ed/feature.jpg" />
@@ -35,7 +35,7 @@
       <title>Handbook on Teaching Empirical Software Engineering: Online Materials</title>
       <link>https://localhost:1313/users/54b73306674ec7e6778b54a0a8b18b36/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuno@n9o.xyz (Blowfish)</author>
+      <author>nuno@n9o.xyz (U-GO)</author>
       <guid>https://localhost:1313/users/54b73306674ec7e6778b54a0a8b18b36/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/54b73306674ec7e6778b54a0a8b18b36/feature.jpg" />
