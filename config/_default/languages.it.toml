@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
-weight = 2
-title = "U-GO"
+weight = 1
+title = ""
 
 [params]
   displayName = "Italiano"
