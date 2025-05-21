@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Config on </title>
+    <title>Config on U-GO</title>
     <link>http://localhost:1313/tags/config/</link>
-    <description>Recent content in Config on </description>
+    <description>Recent content in Config on U-GO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuno@n9o.xyz (U-GO)</managingEditor>
