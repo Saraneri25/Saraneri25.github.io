@@ -19,3 +19,4 @@ Il folletto antagonista. È dispettoso, ma non malvagio. Intrappolando i profess
 
 ## I Professori
 (Prof. Tufano, Prof. Formati, Prof.Bucca ...) ciascuno ha una sua personalità. Una volta liberati, offrono indizi o potenziamenti.
+![Testo alternativo dell'immagine](/img/prof.png "")

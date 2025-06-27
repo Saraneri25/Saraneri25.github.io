@@ -19,3 +19,4 @@ The spiteful antagonist leprechaun, but not evil. By trapping teachers, he wants
 
 ## Professors
 (Prof. Tufano, Prof.ssa Formati, Prof.Bucca ...) each has its own personality. Once released, they offer clues or power-ups.
+![Testo alternativo dell'immagine](/img/prof.png "")
